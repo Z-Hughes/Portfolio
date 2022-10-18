@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Simple minimalistic site created for my development portfolio. As a base I used Strata from html5up because it contained a few elements that are beyond my current scope of development tools (i.e. parallax background effect, Poptrox-powered lightbox gallery) as well as Sass sources.  I thought this would be a great opurtunity for me to play around with these elements to further my knowledge as well as futher my experience reading,  understanding and enhancing previoiusly written code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Z-Hughes/Portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Z-Hughes/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Z-Hughes/Portfolio#readme"
+}
