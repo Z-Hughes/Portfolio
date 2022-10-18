@@ -3,4 +3,4 @@ Simple minimalistic site created for my development portfolio. As a base I used 
 Photography credit: Unsplash.com
 Favicon credit: favicon.cc
 
-
+Check out my portfolio here: https://z-hughes.herokuapp.com/
