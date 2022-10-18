@@ -2,6 +2,12 @@ const express = require("express");
 
 const app = express();
 
+app.use(express.static("assets"));
+
+app.get("/",function(req,res){
+    res.sendFile(__dirname + "/index.html");
+});
+
 let port = process.env.PORT;
 
 if (port == null || port == "") {
@@ -12,6 +18,3 @@ app.listen(port, function() {
     console.log("Server has started successfully.");
 });
 
-// app.get("/", function(req, res){
-//     res.sendFile(__dirname + "/index.html");
-// });
